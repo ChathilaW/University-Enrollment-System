@@ -1,0 +1,6 @@
+# IntelliJ IDEA IDE folder
+.idea/
+
+# Maven build directory
+target/
+
